@@ -1,0 +1,117 @@
+{
+    "radios": [
+        {
+            "id": 1,
+            "name": "92.7",
+            "tagline": "Suno Sunao, Life Banao!",
+            "color": "0xffa11431",
+            "desc": "The chills you get when you listen to music, is mostly caused by the brain releasing dopamine while anticipating the peak moment of a song.",
+            "url": "http://sc-bb.1.fm:8017/;",
+            "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/m8afyszryaqt.png",
+            "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b5df4c18876369.562d0d4bd94cf.jpg",
+            "lang": "Hindi",
+            "category": "pop",
+            "disliked": false,
+            "order": 1
+        },
+            {
+                "id": 2,
+                "name": "98.3",
+                "tagline": "Gaano Ka Sweet Dish",
+                "color": "0xff221420",
+                "desc": "There are few activities in life that utilizes the entire brain, and music is one of them.",
+                "url": "https://pagalfree.com/musics/128-Laare%20-%20Maninder%20Buttar%20128%20Kbps.mp3",
+                "icon": "https://static.mytuner.mobi/media/tvos_radios/2z69hnevkvam.jpeg",
+                "image": "https://c.saavncdn.com/136/Laare-Punjabi-2019-20191203093340-500x500.jpg",
+                "lang": "Hindi",
+                "disliked": false,
+                "category": "rock",
+                "order": 2
+            },
+            {
+                "id": 3,
+                "name": "102",
+                "tagline": "Play On!",
+                "color": "0xff04080b",
+                "desc": "Playing music regularly will physically alter your brain structure.",
+                "url": "https://pagalfree.com/musics/128-End%20Game%20(feat.%20M%20Brown)%20-%20Just%20Hip-Hop%20Records%20128%20Kbps.mp3",
+                "icon": "http://db.radioline.fr/pictures/radio_1b34ac132310c975f847aed2a948a318/logo200.jpg?size=200",
+                "image":"https://images.squarespace-cdn.com/content/v1/5b788d28697a98e17a6d4c7a/1554319311266-I9ALQ1FCFTEWINHF15LA/image1.png?format=1000w",
+                "lang": "Hindi",
+                "disliked": false,
+                "category": "hip-hop",
+                "order": 3
+            },
+            {
+                "id": 4,
+                "name": "104",
+                "tagline": "English Hits",
+                "color": "0xff066c53",
+                "desc": "",
+                "url": "https://pagalfree.com/musics/128-2step%20(feat.%20Armaan%20Malik)%20-%20Ed%20Sheeran%20128%20Kbps.mp3",
+                "icon": "https://radiosindia.com/images/foxfm.jpg",
+                "image": "https://hips.hearstapps.com/hmg-prod/images/best-90s-country-songs-1541020401.jpg?crop=1xw:0.8662731006160165xh;center,top&resize=980:*",
+                "lang": "English",
+                "category": "IndiPop",
+                "disliked": false,
+                "order": 4
+           },
+           {
+               "id": 5,
+               "name": "95",
+               "tagline": "Punjabi Music",
+               "color": "0xff0d487d",
+               "desc": "",
+               "url": "https://pagalfree.com/musics/128-Babli%20Shor%20Machaare%20-%20Babli%20Bouncer%20128%20Kbps.mp3",
+               "icon": "https://static.radio.net/images/broadcasts/5d/9c/37907/1/c175.png",
+               "image": "https://imgeng.jagran.com/images/2022/sep/BabliBouncerOTT1663755219606.jpg",
+               "lang": "Hindi",
+               "category": "Motivational",
+               "disliked": false,
+               "order": 5
+           },
+           {
+               "id": 6,
+               "name": "94",
+               "tagline": "Today's Hits",
+               "color": "0xff27383e",
+               "desc": "",
+               "url": "https://pagalfree.com/musics/128-Kudiye%20Ni%20-%20Aparshakti%20Khurana,%20Neeti%20Mohan%20128%20Kbps.mp3",
+               "icon": "https://static.radio.net/images/broadcasts/8d/76/3600/1/c175.png",
+               "image":"https://c.saavncdn.com/671/Kudiye-Ni-Hindi-2019-20190531024538-500x500.jpg",
+               "lang": "Punjabi",
+               "category": "Love",
+               "disliked": false,
+               "order": 6
+           },
+           {
+               "id": 7,
+               "name": "93",
+               "tagline": "Love Songs",
+               "color": "0xffa06a37",
+               "desc": "The brain responds to music the same way it responds to something that you eat.",
+               "url": "https://pagalfree.com/musics/128-Deva%20Deva%20-%20Brahmastra%20128%20Kbps.mp3",
+               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4evkagl48buu.jpeg",
+               "image": "https://c.saavncdn.com/129/Deva-Deva-From-Brahmastra-Tamil-Tamil-2022-20220810122105-500x500.jpg",
+               "lang": "Hindi",
+               "category": "pop",
+               "disliked": false,
+               "order": 7
+           },
+           {
+               "id": 8,
+               "name": "107",
+               "tagline": "Rocking Retro Hits",
+               "color": "0xff090909",
+               "desc": "Your heartbeat changes to mimics the music you listen to.",
+               "url": "https://pagalfree.com/musics/128-Jehda%20Nasha%20-%20An%20Action%20Hero%20128%20Kbps.mp3",
+               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uvclzz6a6d7x.jpeg",
+               "image": "https://images.tv9hindi.com/wp-content/uploads/2022/11/Jehda-Song.jpg",
+               "lang": "Hindi",
+               "category": "classic",
+               "disliked": false,
+               "order": 8
+           }
+   ]
+   
+}
